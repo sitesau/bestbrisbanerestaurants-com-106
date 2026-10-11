@@ -1,0 +1,19 @@
+{
+  "wheel_id": 368,
+  "structure": "umbrella",
+  "slug": "bestbrisbanerestaurants-com-106",
+  "project": "restaurants-brisbane-costs-d0fc804fac149ee5f0fbc86590c116082e7d",
+  "parent_t1_ref": "bestbrisbanerestaurants-com-152",
+  "node_role": "feeder",
+  "money_target": "bestbrisbanerestaurants.com.au",
+  "primary_kw": "restaurants brisbane costs",
+  "intended_url": "https://sitesau.github.io/bestbrisbanerestaurants-com-106/",
+  "writeback_nonce": "83cffeb0cd89cbd2",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/restaurants-brisbane-d3287e278e5b1f9072cd44735abbba1d02f99465/",
+      "anchor": "restaurants brisbane",
+      "rel": "follow"
+    }
+  ]
+}
